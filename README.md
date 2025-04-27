@@ -97,6 +97,11 @@ Output Waveform :
 
 ![image](https://github.com/user-attachments/assets/7e331b04-1686-4e7f-b255-7652fb1c50e2)
 
+# GRAPH:
+
+![image](https://github.com/user-attachments/assets/99cdbbf9-faba-4c5b-8c22-307c1649360a)
+
+
 ## RESULT:
 
 The Construction or Re-Construction of impulse or ideal sampling using python are verified
